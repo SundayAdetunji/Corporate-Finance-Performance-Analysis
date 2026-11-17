@@ -19,7 +19,7 @@ This project uses Microsoft Power BI to analyse the financial performance and pr
 <img width="766" height="436" alt="WhatsApp Image 2026-11-10 at 21 34 21" src="https://github.com/user-attachments/assets/842b162f-6a90-4ecb-9a3c-5d38eff0cecb" />
 
 ### Data Sources
-The primary data used for this analysisis the Financial_Statement.csv dataset obtained from Kaggle.
+The primary data used for this analysisis the Financial_Statement.csv dataset obtained from Kaggle [Download Here](https://www.kaggle.com/datasets/murtazaaamir/financial-dataset).
 The dataset contains 13 columns, 203,986 financial records across 4,713 publicly listed companies, covering reporting dates from 9 January 2007 to 14 May 2022.
 
 ### Tools
