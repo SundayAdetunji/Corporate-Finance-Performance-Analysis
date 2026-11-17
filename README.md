@@ -1,4 +1,18 @@
 # Corporate-Finance-Performance-Analysis
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+
+---
 ### Project Overview
 This project uses Microsoft Power BI to analyse the financial performance and profitability of publicly listed companies over the period 2007–2022. The objective is to provide insights into corporate profitability, operating income, cost efficiency, profit growth and financial stability through interactive dashboards and financial performance indicators. The analysis is designed to help management, board members and investment analysts identify financially strong and weak companies, assess profitability trends, evaluate operational efficiency and support informed investment decisions.
 
@@ -30,7 +44,7 @@ Data preparation was performed using Power Query in Power BI. The key activities
 - Retained legitimate negative financial values, including losses and negative expenses, rather than treating them as errors.
 - Created additional date-related fields to support time-series analysis.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis 
 
 Exploratory analysis was carried out to understand the dataset’s structure, reporting periods, financial variables and company coverage. The analysis focused on the following:
 * Number of companies represented in the dataset.
@@ -104,7 +118,7 @@ SWITCH(
     "Break-Even"
 )``
 
-### Results/Findings
+### Results and Findings
 
 The results of the analysis are summarised as follows:
 
