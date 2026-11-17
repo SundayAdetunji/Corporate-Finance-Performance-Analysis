@@ -160,3 +160,5 @@ The following limitations were observed:
 Consequently, the dashboard should be considered a financial performance and screening tool rather than a standalone investment recommendation system.
 
 ### References
+- Financial statement dataset from [Kaggle](https://www.kaggle.com/datasets/murtazaaamir/financial-dataset)
+- Various YouTube resources
