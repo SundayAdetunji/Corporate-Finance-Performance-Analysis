@@ -160,5 +160,8 @@ The following limitations were observed:
 Consequently, the dashboard should be considered a financial performance and screening tool rather than a standalone investment recommendation system.
 
 ### References
-- Financial statement dataset from [Kaggle](https://www.kaggle.com/datasets/murtazaaamir/financial-dataset)
-- Various YouTube resources
+- Credit Risk Analysis Dataset.
+- Microsoft Learn – Power BI documentation.
+- Microsoft Learn – Power Query documentation.
+- Microsoft Learn – DAX (Data Analysis Expressions) reference.
+- Microsoft Learn – Power BI data modelling and visualisation documentation.
